@@ -3,9 +3,12 @@
 # Packages
 *.egg
 *.egg-info
+*.bat
 dist
 build
+cover
 eggs
+env
 parts
 bin
 var
